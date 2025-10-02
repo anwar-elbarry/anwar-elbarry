@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning full-stack development<br>
+<br>🌱 full-stack JAVA Student @ YOUCODE|UM6P<br>
 
 
 ## 🌐 Socials:
